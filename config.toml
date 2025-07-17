@@ -2,3 +2,5 @@ baseURL = "https://www.aicuedatalab.com/"
 languageCode = "en-us"
 title = "AICUE DATA LAB - Enabling decision making in manufacturing industry with AI"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+[permalinks]
+blog = "/blog/:slug/"
