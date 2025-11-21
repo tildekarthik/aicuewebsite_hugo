@@ -1,5 +1,5 @@
 ---
-title: "Showcasing VISPECT at the DICV Quality Summit"
+title: "Showcasing VISPECT at the (Daimler India Commercial Vehicles) DICV Quality Summit"
 date: 2025-11-21
 draft: false
 ---
